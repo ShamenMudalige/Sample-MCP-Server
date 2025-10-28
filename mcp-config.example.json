@@ -1,0 +1,11 @@
+{
+  "$schema": "https://github.com/modelcontextprotocol/specification/blob/main/schema/mcp-config.schema.json",
+  "mcpServers": {
+    "sample-mcp-server": {
+      "command": "node",
+      "args": [
+        "/absolute/path/to/Sample-MCP-Server/dist/index.js"
+      ]
+    }
+  }
+}
